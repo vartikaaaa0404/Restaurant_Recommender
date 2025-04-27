@@ -32,9 +32,11 @@ jsonschema-specifications @ file:///tmp/tmpk0f344m9/src
 kiwisolver==1.4.8
 lxml==5.3.2
 Markdown==3.8
+markdown-it-py @ file:///home/conda/feedstock_root/build_artifacts/markdown-it-py_1733250460757/work
 markdownlit==0.0.7
 MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1733219682943/work
 matplotlib==3.10.1
+mdurl @ file:///home/conda/feedstock_root/build_artifacts/mdurl_1733255585584/work
 narwhals @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_narwhals_1744752223/work
 numpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_f2amvjkczw/croot/numpy_and_numpy_base_1725470317860/work/dist/numpy-2.0.1-cp311-cp311-macosx_11_0_arm64.whl#sha256=1faed35ced6c9bbc9c345982a6f5c2ad89fc0b526315b56fc2cdb4b4ec6f9c42
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1733203243479/work
@@ -47,6 +49,7 @@ protobuf==5.29.4
 pyarrow==19.0.1
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pycparser_1733195786/work
 pydeck @ file:///home/conda/feedstock_root/build_artifacts/pydeck_1738346561094/work
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1736243443484/work
 pymdown-extensions==10.14.3
 pyparsing==3.2.3
 PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1733217236728/work
@@ -55,6 +58,7 @@ pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1742920838005/work
 PyYAML @ file:///Users/runner/miniforge3/conda-bld/pyyaml_1737454702303/work
 referencing @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_referencing_1737836872/work
 requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1733217035951/work
+rich @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_rich_1743371105/work/dist
 rpds-py @ file:///Users/runner/miniforge3/conda-bld/bld/rattler-build_rpds-py_1743037539/work
 scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1736496793327/work/dist/scikit_learn-1.6.1-cp311-cp311-macosx_11_0_arm64.whl#sha256=4639b1c7805c0df35af4cc9625edea9ea96885130c17d04fbab1f69d7cc94f02
 scipy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_cc_7w74fto/croot/scipy_1743153255057/work/dist/scipy-1.15.2-cp311-cp311-macosx_11_0_arm64.whl#sha256=d4195a2fc0e73893d720ae2082bacfaffbe7d870613a21aff44a2d207ac0efc2
